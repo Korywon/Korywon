@@ -8,8 +8,8 @@ My name is Alvin. I'm a software engineer based in Virginia, USA. 🧑‍💻
 
 ### 🧠 Currently learning
 
-- 💎 [Ruby](https://www.launchnotes.com/)
-- 🤖 [Machine learning and large language models](https://www.graphapp.ai/)
+- 💎 [Ruby on Rails](https://rubyonrails.org/)
+- 🤖 [Large language models](https://www.graphapp.ai/)
 - 🛠️ [SvelteKit](https://svelte.dev/)
 - ⌨️ [Zed](https://zed.dev/)
 

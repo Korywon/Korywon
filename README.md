@@ -2,7 +2,8 @@
 
 My name is Alvin. I'm a software engineer based in Virginia, USA. 🧑‍💻
 
-- 🌮 [LaunchNotes Software Engineer](https://www.launchnotes.com/blog/from-nasa-to-launchnotes)
+- 🕵️ [Clarify Software Engineer](https://clarify.ai)
+- 🌮 [Ex-LaunchNotes Software Engineer](https://www.launchnotes.com/blog/from-nasa-to-launchnotes)
 - 🧑‍🚀 [Ex-NASA Software Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6920880784824299520/)
 - 📚 University of Houston 2019
 

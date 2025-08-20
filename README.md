@@ -2,17 +2,16 @@
 
 My name is Alvin. I'm a software engineer based in Virginia, USA. 🧑‍💻
 
-- 🕵️ [Clarify Software Engineer](https://clarify.ai)
+- 🕵️ [Clarify Software Engineer](https://www.linkedin.com/posts/getclarify_random-activity-7330639714175045632-IzrZ)
 - 🌮 [Ex-LaunchNotes Software Engineer](https://www.launchnotes.com/blog/from-nasa-to-launchnotes)
 - 🧑‍🚀 [Ex-NASA Software Engineer](https://www.linkedin.com/feed/update/urn:li:activity:6920880784824299520/)
 - 📚 University of Houston 2019
 
 ### 🧠 Currently learning
 
-- 💎 [Ruby on Rails](https://rubyonrails.org/)
+- 🦁 [NestJS]([https://rubyonrails.org/](https://nestjs.com/))
 - 🤖 [Large language models](https://www.graphapp.ai/)
-- 🛠️ [SvelteKit](https://svelte.dev/)
-- ⌨️ [Zed](https://zed.dev/)
+- 🛠️ [NextJS](https://nextjs.org/)
 
 ### 🤪 Some fun things
 
